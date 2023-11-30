@@ -1,0 +1,37 @@
+.box-1 {
+  background-color: aquamarine;
+  padding: 10px;
+  margin-top: 10px;
+}
+.box-2 {
+  background-color: aqua;
+  padding: 10px;
+  margin-top: 10px;
+  display: inline;
+}
+.box-3 {
+  background-color: bisque;
+  padding: 10px;
+  margin-top: 10px;
+  display: inline-block;
+}
+.box-4 {
+  background-color: purple;
+  color: whitesmoke;
+  padding: 10px;
+  margin-top: 10px;
+  display: none;
+}
+.box-5 {
+  background-color: purple;
+  color: whitesmoke;
+  padding: 10px;
+  margin-top: 10px;
+}
+.box-hidden {
+  background-color: purple;
+  color: whitesmoke;
+  padding: 10px;
+  margin-top: 10px;
+  visibility: hidden;
+}
